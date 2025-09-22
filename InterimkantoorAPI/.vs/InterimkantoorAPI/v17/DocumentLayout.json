@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\InterimkantoorAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43D7935A-BF30-4B82-B88D-F825CC0A23DA}|InterimkantoorAPI.csproj|c:\\graduaat programmeren\\jaar 2\\dotnet dev\\interimkantoorapi\\controllers\\klantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D7935A-BF30-4B82-B88D-F825CC0A23DA}|InterimkantoorAPI.csproj|solutionrelative:controllers\\klantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D7935A-BF30-4B82-B88D-F825CC0A23DA}|InterimkantoorAPI.csproj|c:\\graduaat programmeren\\jaar 2\\dotnet dev\\interimkantoorapi\\models\\klant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D7935A-BF30-4B82-B88D-F825CC0A23DA}|InterimkantoorAPI.csproj|solutionrelative:models\\klant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D7935A-BF30-4B82-B88D-F825CC0A23DA}|InterimkantoorAPI.csproj|c:\\graduaat programmeren\\jaar 2\\dotnet dev\\interimkantoorapi\\migrations\\20250915100030_creab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D7935A-BF30-4B82-B88D-F825CC0A23DA}|InterimkantoorAPI.csproj|solutionrelative:migrations\\20250915100030_creab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D7935A-BF30-4B82-B88D-F825CC0A23DA}|InterimkantoorAPI.csproj|c:\\graduaat programmeren\\jaar 2\\dotnet dev\\interimkantoorapi\\migrations\\apiinterimkantoorcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D7935A-BF30-4B82-B88D-F825CC0A23DA}|InterimkantoorAPI.csproj|solutionrelative:migrations\\apiinterimkantoorcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D7935A-BF30-4B82-B88D-F825CC0A23DA}|InterimkantoorAPI.csproj|c:\\graduaat programmeren\\jaar 2\\dotnet dev\\interimkantoorapi\\data\\apiinterimkantoorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D7935A-BF30-4B82-B88D-F825CC0A23DA}|InterimkantoorAPI.csproj|solutionrelative:data\\apiinterimkantoorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D7935A-BF30-4B82-B88D-F825CC0A23DA}|InterimkantoorAPI.csproj|c:\\graduaat programmeren\\jaar 2\\dotnet dev\\interimkantoorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D7935A-BF30-4B82-B88D-F825CC0A23DA}|InterimkantoorAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D7935A-BF30-4B82-B88D-F825CC0A23DA}|InterimkantoorAPI.csproj|c:\\graduaat programmeren\\jaar 2\\dotnet dev\\interimkantoorapi\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D7935A-BF30-4B82-B88D-F825CC0A23DA}|InterimkantoorAPI.csproj|solutionrelative:models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\InterimkantoorAPI\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Models\\Job.cs",
+              "ToolTip": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\InterimkantoorAPI\\Models\\Job.cs",
+              "RelativeToolTip": "Models\\Job.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:16:37.462Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250915100030_creab.cs",
+              "DocumentMoniker": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\InterimkantoorAPI\\Migrations\\20250915100030_creab.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250915100030_creab.cs",
+              "ToolTip": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\InterimkantoorAPI\\Migrations\\20250915100030_creab.cs",
+              "RelativeToolTip": "Migrations\\20250915100030_creab.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:37:13.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APIinterimkantoorContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\InterimkantoorAPI\\Migrations\\APIinterimkantoorContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\APIinterimkantoorContextModelSnapshot.cs",
+              "ToolTip": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\InterimkantoorAPI\\Migrations\\APIinterimkantoorContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\APIinterimkantoorContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:37:11.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KlantController.cs",
+              "DocumentMoniker": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\InterimkantoorAPI\\Controllers\\KlantController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KlantController.cs",
+              "ToolTip": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\InterimkantoorAPI\\Controllers\\KlantController.cs",
+              "RelativeToolTip": "Controllers\\KlantController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwF0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:04:26.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Klant.cs",
+              "DocumentMoniker": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\InterimkantoorAPI\\Models\\Klant.cs",
+              "RelativeDocumentMoniker": "Models\\Klant.cs",
+              "ToolTip": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\InterimkantoorAPI\\Models\\Klant.cs",
+              "RelativeToolTip": "Models\\Klant.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:37:10.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\InterimkantoorAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\InterimkantoorAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:23:12.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "APIinterimkantoorContext.cs",
+              "DocumentMoniker": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\InterimkantoorAPI\\Data\\APIinterimkantoorContext.cs",
+              "RelativeDocumentMoniker": "Data\\APIinterimkantoorContext.cs",
+              "ToolTip": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\InterimkantoorAPI\\Data\\APIinterimkantoorContext.cs",
+              "RelativeToolTip": "Data\\APIinterimkantoorContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:18:29.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
