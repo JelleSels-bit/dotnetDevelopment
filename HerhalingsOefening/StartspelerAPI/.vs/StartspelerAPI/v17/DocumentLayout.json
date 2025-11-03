@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\HerhalingsOefening\\StartspelerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6155BE1B-5E0F-49FE-BC25-AEE22F1C5AEA}|StartspelerAPI.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\herhalingsoefening\\startspelerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6155BE1B-5E0F-49FE-BC25-AEE22F1C5AEA}|StartspelerAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6155BE1B-5E0F-49FE-BC25-AEE22F1C5AEA}|StartspelerAPI.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\herhalingsoefening\\startspelerapi\\services\\identityseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6155BE1B-5E0F-49FE-BC25-AEE22F1C5AEA}|StartspelerAPI.csproj|solutionrelative:services\\identityseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6155BE1B-5E0F-49FE-BC25-AEE22F1C5AEA}|StartspelerAPI.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\herhalingsoefening\\startspelerapi\\models\\mysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6155BE1B-5E0F-49FE-BC25-AEE22F1C5AEA}|StartspelerAPI.csproj|solutionrelative:models\\mysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6155BE1B-5E0F-49FE-BC25-AEE22F1C5AEA}|StartspelerAPI.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\herhalingsoefening\\startspelerapi\\models\\gebruiker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6155BE1B-5E0F-49FE-BC25-AEE22F1C5AEA}|StartspelerAPI.csproj|solutionrelative:models\\gebruiker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6155BE1B-5E0F-49FE-BC25-AEE22F1C5AEA}|StartspelerAPI.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\herhalingsoefening\\startspelerapi\\controller\\communitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6155BE1B-5E0F-49FE-BC25-AEE22F1C5AEA}|StartspelerAPI.csproj|solutionrelative:controller\\communitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6155BE1B-5E0F-49FE-BC25-AEE22F1C5AEA}|StartspelerAPI.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\herhalingsoefening\\startspelerapi\\controller\\gebruikercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6155BE1B-5E0F-49FE-BC25-AEE22F1C5AEA}|StartspelerAPI.csproj|solutionrelative:controller\\gebruikercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6155BE1B-5E0F-49FE-BC25-AEE22F1C5AEA}|StartspelerAPI.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\herhalingsoefening\\startspelerapi\\dto\\gebruiker\\gebruikerregistratiedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6155BE1B-5E0F-49FE-BC25-AEE22F1C5AEA}|StartspelerAPI.csproj|solutionrelative:dto\\gebruiker\\gebruikerregistratiedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6155BE1B-5E0F-49FE-BC25-AEE22F1C5AEA}|StartspelerAPI.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\herhalingsoefening\\startspelerapi\\dto\\gebruiker\\gebruikerlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6155BE1B-5E0F-49FE-BC25-AEE22F1C5AEA}|StartspelerAPI.csproj|solutionrelative:dto\\gebruiker\\gebruikerlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\HerhalingsOefening\\StartspelerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\HerhalingsOefening\\StartspelerAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-03T16:48:24.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mySettings.cs",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\HerhalingsOefening\\StartspelerAPI\\Models\\mySettings.cs",
+              "RelativeDocumentMoniker": "Models\\mySettings.cs",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\HerhalingsOefening\\StartspelerAPI\\Models\\mySettings.cs",
+              "RelativeToolTip": "Models\\mySettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T16:47:35.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommunityController.cs",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\HerhalingsOefening\\StartspelerAPI\\Controller\\CommunityController.cs",
+              "RelativeDocumentMoniker": "Controller\\CommunityController.cs",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\HerhalingsOefening\\StartspelerAPI\\Controller\\CommunityController.cs",
+              "RelativeToolTip": "Controller\\CommunityController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwGYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T16:37:43.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GebruikerLoginDTO.cs",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\HerhalingsOefening\\StartspelerAPI\\DTO\\Gebruiker\\GebruikerLoginDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Gebruiker\\GebruikerLoginDTO.cs",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\HerhalingsOefening\\StartspelerAPI\\DTO\\Gebruiker\\GebruikerLoginDTO.cs",
+              "RelativeToolTip": "DTO\\Gebruiker\\GebruikerLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T16:34:51.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gebruiker.cs",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\HerhalingsOefening\\StartspelerAPI\\Models\\Gebruiker.cs",
+              "RelativeDocumentMoniker": "Models\\Gebruiker.cs",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\HerhalingsOefening\\StartspelerAPI\\Models\\Gebruiker.cs",
+              "RelativeToolTip": "Models\\Gebruiker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T16:32:40.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GebruikerRegistratieDto.cs",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\HerhalingsOefening\\StartspelerAPI\\DTO\\Gebruiker\\GebruikerRegistratieDto.cs",
+              "RelativeDocumentMoniker": "DTO\\Gebruiker\\GebruikerRegistratieDto.cs",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\HerhalingsOefening\\StartspelerAPI\\DTO\\Gebruiker\\GebruikerRegistratieDto.cs",
+              "RelativeToolTip": "DTO\\Gebruiker\\GebruikerRegistratieDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:35:56.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GebruikerController.cs",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\HerhalingsOefening\\StartspelerAPI\\Controller\\GebruikerController.cs",
+              "RelativeDocumentMoniker": "Controller\\GebruikerController.cs",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\HerhalingsOefening\\StartspelerAPI\\Controller\\GebruikerController.cs",
+              "RelativeToolTip": "Controller\\GebruikerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:34:03.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentitySeeding.cs",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\HerhalingsOefening\\StartspelerAPI\\Services\\IdentitySeeding.cs",
+              "RelativeDocumentMoniker": "Services\\IdentitySeeding.cs",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\HerhalingsOefening\\StartspelerAPI\\Services\\IdentitySeeding.cs",
+              "RelativeToolTip": "Services\\IdentitySeeding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:10:22.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

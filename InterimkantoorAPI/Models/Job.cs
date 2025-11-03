@@ -12,9 +12,11 @@ namespace InterimkantoorAPI.Models
         [MaxLength(100, ErrorMessage = "De omschrijving mag maar 100 karakters bevatten")]
     public string Locatie { get; set; }
         [Required()]
-    public DateOnly StartDatum { get; set; } = DateOnly.FromDateTime(DateTime.Now);
+        [DataType(DataType.Date)]
+        public DateTime StartDatum { get; set; } = DateTime.Now;
         [Required()]
-    public DateOnly EindDatum { get; set; } = DateOnly.FromDateTime(DateTime.Now).AddDays(1);
+        [DataType(DataType.Date)]
+        public DateTime EindDatum { get; set; } = DateTime.Now.AddDays(1);
 
         [DefaultValue(false)]
     public bool IsWerkschoenen { get; set; } 
@@ -25,7 +27,9 @@ namespace InterimkantoorAPI.Models
         [MaxLength(100,ErrorMessage ="100 max")]
         [MinLength(1,ErrorMessage ="min 1")]
     public int AantalPlaatsen { get; set; }
-        
+
+    public List<KlantJob>? KlantJobs { get; set; }
+
     }
 }
 

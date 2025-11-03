@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\12-StartSpelerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79155CCC-3CF1-4681-8A29-D3D9D2306DEE}|StartSpelerAPI\\StartSpelerAPI.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\12-startspelerapi\\startspelerapi\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79155CCC-3CF1-4681-8A29-D3D9D2306DEE}|StartSpelerAPI\\StartSpelerAPI.csproj|solutionrelative:startspelerapi\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79155CCC-3CF1-4681-8A29-D3D9D2306DEE}|StartSpelerAPI\\StartSpelerAPI.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\12-startspelerapi\\startspelerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79155CCC-3CF1-4681-8A29-D3D9D2306DEE}|StartSpelerAPI\\StartSpelerAPI.csproj|solutionrelative:startspelerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79155CCC-3CF1-4681-8A29-D3D9D2306DEE}|StartSpelerAPI\\StartSpelerAPI.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\12-startspelerapi\\startspelerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79155CCC-3CF1-4681-8A29-D3D9D2306DEE}|StartSpelerAPI\\StartSpelerAPI.csproj|solutionrelative:startspelerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79155CCC-3CF1-4681-8A29-D3D9D2306DEE}|StartSpelerAPI\\StartSpelerAPI.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\12-startspelerapi\\startspelerapi\\configuration\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79155CCC-3CF1-4681-8A29-D3D9D2306DEE}|StartSpelerAPI\\StartSpelerAPI.csproj|solutionrelative:startspelerapi\\configuration\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79155CCC-3CF1-4681-8A29-D3D9D2306DEE}|StartSpelerAPI\\StartSpelerAPI.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\12-startspelerapi\\startspelerapi\\data\\startspelerapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79155CCC-3CF1-4681-8A29-D3D9D2306DEE}|StartSpelerAPI\\StartSpelerAPI.csproj|solutionrelative:startspelerapi\\data\\startspelerapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\12-StartSpelerAPI\\StartSpelerAPI\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "StartSpelerAPI\\UnitTest1.cs",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\12-StartSpelerAPI\\StartSpelerAPI\\UnitTest1.cs",
+              "RelativeToolTip": "StartSpelerAPI\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T09:06:43.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\12-StartSpelerAPI\\StartSpelerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "StartSpelerAPI\\appsettings.json",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\12-StartSpelerAPI\\StartSpelerAPI\\appsettings.json",
+              "RelativeToolTip": "StartSpelerAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-13T09:16:58.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\12-StartSpelerAPI\\StartSpelerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StartSpelerAPI\\Program.cs",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\12-StartSpelerAPI\\StartSpelerAPI\\Program.cs",
+              "RelativeToolTip": "StartSpelerAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T09:15:49.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\12-StartSpelerAPI\\StartSpelerAPI\\Configuration\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "StartSpelerAPI\\Configuration\\MapperProfile.cs",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\12-StartSpelerAPI\\StartSpelerAPI\\Configuration\\MapperProfile.cs",
+              "RelativeToolTip": "StartSpelerAPI\\Configuration\\MapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T09:15:45.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartspelerAPIContext.cs",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\12-StartSpelerAPI\\StartSpelerAPI\\Data\\StartspelerAPIContext.cs",
+              "RelativeDocumentMoniker": "StartSpelerAPI\\Data\\StartspelerAPIContext.cs",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\12-StartSpelerAPI\\StartSpelerAPI\\Data\\StartspelerAPIContext.cs",
+              "RelativeToolTip": "StartSpelerAPI\\Data\\StartspelerAPIContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T09:06:19.438Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -31,6 +31,7 @@ namespace InterimkantoorAPI.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<int>("AantalPlaatsen")
+                        .HasMaxLength(100)
                         .HasColumnType("int");
 
                     b.Property<DateTime>("EindDatum")
@@ -45,16 +46,18 @@ namespace InterimkantoorAPI.Migrations
                     b.Property<bool>("IsWerkschoenen")
                         .HasColumnType("bit");
 
+                    b.Property<string>("Locatie")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
                     b.Property<string>("Omschrijving")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)");
 
                     b.Property<DateTime>("StartDatum")
                         .HasColumnType("datetime2");
-
-                    b.Property<string>("locatie")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
@@ -72,29 +75,86 @@ namespace InterimkantoorAPI.Migrations
 
                     b.Property<string>("Gemeente")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
 
                     b.Property<int>("Huisnummer")
                         .HasColumnType("int");
 
                     b.Property<string>("Naam")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
 
                     b.Property<int>("Postcode")
                         .HasColumnType("int");
 
                     b.Property<string>("Straat")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
 
                     b.Property<string>("Voornaam")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
 
                     b.HasKey("Id");
 
                     b.ToTable("Klant", (string)null);
+                });
+
+            modelBuilder.Entity("InterimkantoorAPI.Models.KlantJob", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("JobId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("KlantId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("JobId");
+
+                    b.HasIndex("KlantId");
+
+                    b.ToTable("KlantJob");
+                });
+
+            modelBuilder.Entity("InterimkantoorAPI.Models.KlantJob", b =>
+                {
+                    b.HasOne("InterimkantoorAPI.Models.Job", "Job")
+                        .WithMany("KlantJobs")
+                        .HasForeignKey("JobId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("InterimkantoorAPI.Models.Klant", "Klant")
+                        .WithMany("KlantJobs")
+                        .HasForeignKey("KlantId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("Job");
+
+                    b.Navigation("Klant");
+                });
+
+            modelBuilder.Entity("InterimkantoorAPI.Models.Job", b =>
+                {
+                    b.Navigation("KlantJobs");
+                });
+
+            modelBuilder.Entity("InterimkantoorAPI.Models.Klant", b =>
+                {
+                    b.Navigation("KlantJobs");
                 });
 #pragma warning restore 612, 618
         }

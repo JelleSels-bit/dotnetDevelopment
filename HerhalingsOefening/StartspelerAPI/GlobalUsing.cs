@@ -1,0 +1,9 @@
+﻿global using System.Text.Json.Serialization;
+global using StartspelerAPI;
+global using StartspelerAPI.Data;
+global using StartspelerAPI.Models;
+global using StartspelerAPI.Data.UnitOfWork;
+global using Microsoft.IdentityModel.Tokens;
+global using StartspelerAPI.Helper;
+global using Microsoft.AspNetCore.Authentication.JwtBearer;
+global using StartspelerAPI.Services;

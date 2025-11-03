@@ -109,5 +109,8 @@ namespace InterimkantoorAPI.Controllers
 
             return Ok($"Product met id {id} is verwijderd");
         }
+
+
+      
     }
 }

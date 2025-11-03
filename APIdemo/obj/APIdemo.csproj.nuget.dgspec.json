@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\APIdemo.csproj": {}
+    "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\APIdemo.csproj": {}
   },
   "projects": {
-    "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\APIdemo.csproj": {
+    "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\APIdemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\APIdemo.csproj",
+        "projectUniqueName": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\APIdemo.csproj",
         "projectName": "APIdemo",
-        "projectPath": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\APIdemo.csproj",
-        "packagesPath": "C:\\Users\\Jelle\\.nuget\\packages\\",
-        "outputPath": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\obj\\",
+        "projectPath": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\APIdemo.csproj",
+        "packagesPath": "C:\\Users\\jelle\\.nuget\\packages\\",
+        "outputPath": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jelle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jelle\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

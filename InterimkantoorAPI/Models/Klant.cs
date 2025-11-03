@@ -24,5 +24,7 @@ namespace InterimkantoorAPI.Models
         public int Huisnummer { get; set; }
             [Required()]
         public string Bankrekeningnummer { get; set; }
+
+        public List<KlantJob> KlantJobs { get; set; }
     }
 }

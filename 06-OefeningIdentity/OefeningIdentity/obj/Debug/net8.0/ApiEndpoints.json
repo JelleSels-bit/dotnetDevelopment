@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "OefeningIdentity.Controllers.KlantController",
+    "Method": "Details",
+    "RelativePath": "api/Klant/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OefeningIdentity.Controllers.KlantController",
+    "Method": "GetLijst",
+    "RelativePath": "api/Klant/Lijst",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OefeningIdentity.Controllers.MijnAccountController",
+    "Method": "Login",
+    "RelativePath": "api/MijnAccount/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "OefeningIdentity.Models.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OefeningIdentity.Controllers.MijnAccountController",
+    "Method": "Register",
+    "RelativePath": "api/MijnAccount/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OefeningIdentity.RegistratieDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

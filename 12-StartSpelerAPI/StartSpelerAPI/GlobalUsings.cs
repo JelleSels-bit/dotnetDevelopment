@@ -1,0 +1,9 @@
+﻿global using System.ComponentModel.DataAnnotations;
+global using AutoMapper;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore;
+global using StartSpelerAPI.Data;
+global using StartSpelerAPI.Data.Repository;
+global using StartSpelerAPI.Dto;
+global using StartSpelerAPI.Models;

@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\",
+  "WorkspaceRootPath": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|c:\\graduaat programmeren\\jaar 2\\dotnet dev\\apidemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\apidemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|c:\\graduaat programmeren\\jaar 2\\dotnet dev\\apidemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\apidemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|c:\\graduaat programmeren\\jaar 2\\dotnet dev\\apidemo\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\apidemo\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|solutionrelative:models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|c:\\graduaat programmeren\\jaar 2\\dotnet dev\\apidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\apidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|c:\\graduaat programmeren\\jaar 2\\dotnet dev\\apidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\apidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|c:\\graduaat programmeren\\jaar 2\\dotnet dev\\apidemo\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\apidemo\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|solutionrelative:globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|c:\\graduaat programmeren\\jaar 2\\dotnet dev\\apidemo\\data\\apidemocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\apidemo\\data\\apidemocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|solutionrelative:data\\apidemocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|c:\\graduaat programmeren\\jaar 2\\dotnet dev\\apidemo\\apidemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|d:\\graduaat programmeren\\jaar 2\\dotnetdevelopment\\apidemo\\apidemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{05E88C89-F1EF-4519-B613-F82441DAF2E3}|APIdemo.csproj|solutionrelative:apidemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
@@ -42,28 +42,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\Models\\Product.cs",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\Models\\Product.cs",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T11:37:17.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T11:37:17.704Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "GlobalUsing.cs",
-              "DocumentMoniker": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\GlobalUsing.cs",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "GlobalUsing.cs",
-              "ToolTip": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\GlobalUsing.cs",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\GlobalUsing.cs",
               "RelativeToolTip": "GlobalUsing.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,22 +76,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Pokemon.cs",
-              "DocumentMoniker": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\Models\\Pokemon.cs",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\Models\\Pokemon.cs",
               "RelativeDocumentMoniker": "Models\\Pokemon.cs",
-              "ToolTip": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\Models\\Pokemon.cs",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\Models\\Pokemon.cs",
               "RelativeToolTip": "Models\\Pokemon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T09:17:31.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T09:17:31.274Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "APIdemoContext.cs",
-              "DocumentMoniker": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\Data\\APIdemoContext.cs",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\Data\\APIdemoContext.cs",
               "RelativeDocumentMoniker": "Data\\APIdemoContext.cs",
-              "ToolTip": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\Data\\APIdemoContext.cs",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\Data\\APIdemoContext.cs",
               "RelativeToolTip": "Data\\APIdemoContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -98,9 +100,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\appsettings.json",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\appsettings.json",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -110,9 +112,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "APIdemo.http",
-              "DocumentMoniker": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\APIdemo.http",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\APIdemo.http",
               "RelativeDocumentMoniker": "APIdemo.http",
-              "ToolTip": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\APIdemo.http",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\APIdemo.http",
               "RelativeToolTip": "APIdemo.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -122,9 +124,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\Program.cs",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\Program.cs",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,18 +136,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Graduaat programmeren\\jaar 2\\dotnet dev\\APIdemo\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Graduaat Programmeren\\jaar 2\\dotnetDevelopment\\APIdemo\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAzwCUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T08:28:59.195Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
